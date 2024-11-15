@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Krishna Sharma </span>
-            from <span className="purple"> Bulandshahr, Uttar Pradesh, India.</span>
+            Hi Everyone, I am <span className="purple">Gaurav Verma </span>
+            from <span className="purple"> Shahjahanpur, Uttar Pradesh, India.</span>
             <br />
             I’m an upcoming Software Developer Intern at Atlas Consolidated.
             <br />
-            I’m currently a fourth-year student at the Institute of Engineering & Technology, Lucknow.
+            I’m currently a Final-year student at the Institute of Engineering & Technology, Lucknow.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
