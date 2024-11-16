@@ -52,21 +52,21 @@ function Home2() {
               </h1>
               <p className="home-about-body">
               <ul>
-                <li>
+                {/* <li>
                   Qualified for <b className="purple">ACM ICPC 2023 </b>Chennai
                   Regionals by securing All India Rank
                   <b className="purple"> 321</b>.
-                </li>
-                <br />
+                </li> */}
+                {/* <br /> */}
                 <li>
-                  <b className="purple">Expert</b> on CodeForces : Highest
-                  Rating - <b className="purple">1831</b>, All India Rank -{" "}
+                  <b className="purple">Pupil</b> on CodeForces : Highest
+                  Rating - <b className="purple">1230</b>, All India Rank -{" "}
                   <b className="purple">379</b>.
                 </li>
                 <br />
                 <li>
-                  <b className="purple">5 Star</b> on CodeChef :{" "}
-                  <b className="purple">2061</b> Rating, among{" "}
+                  <b className="purple">4 Star</b> on CodeChef :{" "}
+                  <b className="purple">1813</b> Rating, among{" "}
                   <b className="purple">top 0.75%</b> of all Indian users.
                 </li>
                 <br />
@@ -77,8 +77,8 @@ function Home2() {
                 </li>
                 <br />
                 <li>
-                  <b className="purple">Guardian</b> on LeetCode :{" "}
-                  <b className="purple">2239</b> Rating, among{" "}
+                  <b className="purple">Knight</b> on LeetCode :{" "}
+                  <b className="purple">1850</b> Rating, among{" "}
                   <b className="purple">top 0.8%</b> of all users.
                 </li>
               </ul>
