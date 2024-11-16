@@ -11,7 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Gaurav Verma </span>
             from <span className="purple"> Shahjahanpur, Uttar Pradesh, India.</span>
             <br />
-            I’m an upcoming Software Developer Intern at Atlas Consolidated.
+            
+            Software Developer Intern at @HashedBit Innovations
             <br />
             I’m currently a Final-year student at the Institute of Engineering & Technology, Lucknow.
             <br />

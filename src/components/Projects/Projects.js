@@ -3,7 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import ChatStream from "../../Assets/Projects/ChatStream.png";
-import WeatherApp from "../../Assets/Projects/WeatherApp.png";
+import WeatherApp from "../../Assets/Projects/WeatherApp.jpg";
+import Ecommerse from "../../Assets/Projects/Ecommerse.png";
 
 function Projects() {
   return (
@@ -19,7 +20,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={ChatStream}
+              imgPath={WeatherApp}
               isBlog={false}
               title="AI Mock Interview App"
               description="Built and deployed a Full Stack AI Mock Interview App with Next.js, React, Drizzle ORM, Gemini AI, and Clerk.
@@ -32,7 +33,7 @@ Tailored questions to users based on their job roles, job descriptions, and expe
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={WeatherApp}
+              imgPath={ChatStream}
               isBlog={false}
               title="AI Form Builder"
               description="Developed a website using Next.js and Gemini AI to create customizable forms based on user inputs and
@@ -44,7 +45,7 @@ preferences automatically."
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={WeatherApp}
+              imgPath={Ecommerse}
               isBlog={false}
               title="E-COMMERCE WEBSITE"
               description="Developed and maintained a full-stack e-commerce website using React.js, Express.js, and MongoDB, delivering a
