@@ -21,10 +21,12 @@ function Projects() {
             <ProjectCard
               imgPath={ChatStream}
               isBlog={false}
-              title="ChatStream"
-              description="A Web Application that enables real-time chat functionality for users. Users can send and receive messages instantly using Firebase, ensuring seamless communication with friends and family."
-              ghLink="https://github.com/krishnash1355/ChatStream"
-              // demoLink=""
+              title="AI Mock Interview App"
+              description="Built and deployed a Full Stack AI Mock Interview App with Next.js, React, Drizzle ORM, Gemini AI, and Clerk.
+Tailored questions to users based on their job roles, job descriptions, and experience.
+"
+              ghLink="https://github.com/gauravverma9795/AI-Interview-mocker"
+              demoLink="https://ai-interview-mocker-zeta.vercel.app/"
             />
           </Col>
 
@@ -32,9 +34,12 @@ function Projects() {
             <ProjectCard
               imgPath={WeatherApp}
               isBlog={false}
-              title="WeatherApp"
-              description="A Web Application that provides real-time weather updates for various locations. Users can search for current weather conditions and detailed forecasts for any city around the globe easily."
-              ghLink="https://github.com/krishnash1355/react-weather-app-master"
+              title="AI Form Builder"
+              description="Developed a website using Next.js and Gemini AI to create customizable forms based on user inputs and
+preferences automatically."
+              ghLink="https://github.com/gauravverma9795/ai-form-builder"
+
+              demoLink="https://ai-form-builder-gaurav.vercel.app/"
             />
           </Col>
         </Row>
