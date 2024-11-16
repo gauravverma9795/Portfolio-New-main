@@ -42,6 +42,18 @@ preferences automatically."
               demoLink="https://ai-form-builder-gaurav.vercel.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={WeatherApp}
+              isBlog={false}
+              title="E-COMMERCE WEBSITE"
+              description="Developed and maintained a full-stack e-commerce website using React.js, Express.js, and MongoDB, delivering a
+seamless user experience."
+              ghLink="https://github.com/gauravverma9795/Ecommerse"
+
+              demoLink="https://ecommerse-lvmb.onrender.com/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
