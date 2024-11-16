@@ -70,16 +70,22 @@ function Home2() {
                   <b className="purple">top 0.75%</b> of all Indian users.
                 </li>
                 <br />
-                <li>
+                {/* <li>
                   <b className="purple">Meta Hacker Cup 2023</b> - 1350th Rank
                   (India Rank: <b className="purple">236</b>), out of 6500+
                   total participants.
                 </li>
-                <br />
+                <br /> */}
                 <li>
                   <b className="purple">Knight</b> on LeetCode :{" "}
                   <b className="purple">1850</b> Rating, among{" "}
                   <b className="purple">top 0.8%</b> of all users.
+                </li>
+                <br />
+                <li>
+                  <b className="purple">Solved 300+</b> questions of DSA at {" "}
+                  <b className="purple"> LeetCode, GeeksforGeeks and </b> and{" "}
+                  <b className="purple">CodingNinjas</b> 
                 </li>
               </ul>
               </p>
