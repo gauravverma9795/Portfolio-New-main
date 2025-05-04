@@ -52,21 +52,36 @@ function Home2() {
               </h1>
               <p className="home-about-body">
               <ul>
-                {/* <li>
-                  Qualified for <b className="purple">ACM ICPC 2023 </b>Chennai
-                  Regionals by securing All India Rank
-                  <b className="purple"> 321</b>.
-                </li> */}
-                {/* <br /> */}
                 <li>
-                  <b className="purple">Pupil</b> on CodeForces : Highest
-                  Rating - <b className="purple">1230</b>, All India Rank -{" "}
+                Secured <b className="purple">Global Rank 3 </b>
+                in CodeChef Starters
+                  <b className="purple"> 180 (Div. 2) among 38,000+ participants</b>.
+                </li>
+                <br />
+
+                <li>
+                Achieved <b className="purple">Global Rank 27 </b>
+                in CodeVita Season 12
+                  <b className="purple"> competing against 197,000+ participants</b>.
+                </li>
+                <br />
+
+                <li>
+                Secured <b className="purple">Global Rank 75 </b>
+                out of 30,000+ participants in
+                  <b className="purple">  CodeForces Round 1016 (Div. 3)</b>.
+                </li>
+                <br />
+                
+                <li>
+                  <b className="purple">Expert</b> on CodeForces : Highest
+                  Rating - <b className="purple">1763</b>, All India Rank -{" "}
                   <b className="purple">379</b>.
                 </li>
                 <br />
                 <li>
-                  <b className="purple">4 Star</b> on CodeChef :{" "}
-                  <b className="purple">1813</b> Rating, among{" "}
+                  <b className="purple">5 Star</b> on CodeChef :{" "}
+                  <b className="purple">2036</b> Rating, among{" "}
                   <b className="purple">top 0.75%</b> of all Indian users.
                 </li>
                 <br />
